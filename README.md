@@ -1,16 +1,34 @@
-## Hi there 👋
+````md id="a9jlwm"
+# Ganeshkumar
 
-<!--
-**Xer-07/Xer-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Undergrad
 
-Here are some ideas to get you started:
+Currently building:
+- ARGUS
+- NLP & Semantic Systems
+- AI Tooling
+- Backend Experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Stack
+
+```python
+Python • JavaScript • C++
+Flask • FastAPI • React
+SentenceTransformers • Scikit-learn
+````
+
+## 🧠 Interests
+
+Semantic Search
+RAG Systems
+AI + Software Engineering
+System Design
+
+```txt
+building things
+breaking them
+rebuilding better
+```
+
+```
+```
