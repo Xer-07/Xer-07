@@ -39,26 +39,19 @@ I enjoy building scalable systems, experimenting with AI workflows, and solving 
 > Sentence Transformers
 > Machine Learning
 > System Design
-> Competitive Programming
+> Competitive Programming(Solved 200+ problems)
 ```
 
 ---
 
 ## 🚀 Projects
 
-### ARGUS
+**[ARGUS](https://github.com/Xer-07/Argus)** `active`
 
-> A graph-based system that maps the argumentative structure of online conversations — extracting claims, detecting rhetorical moves, scoring influence, and making any thread semantically queryable.
-
----
-
-## 🧩 Experience
-
-- Solved **200+ problems** across platforms like Codeforces, LeetCode, and CodeChef
-- Exploring scalable backend architecture and AI systems
-- Building practical AI applications with modern tooling
+A graph-based system that maps the argumentative structure of online conversations — extracting claims, detecting rhetorical moves, scoring influence, and making any thread semantically queryable.
 
 ---
+
 
 <div align="center">
 
