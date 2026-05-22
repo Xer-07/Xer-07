@@ -1,34 +1,67 @@
-````md id="a9jlwm"
-# Ganeshkumar
+<img align="right" width="260" src="https://64.media.tumblr.com/39e9cde33114fda2f8cdf95f850fc255/tumblr_ot042dBMPj1ro8ysbo1_500.gifv">
 
-CS Undergrad
+<h1>Ganeshkumar</h1>
 
-Currently building:
-- ARGUS
-- NLP & Semantic Systems
-- AI Tooling
-- Backend Experiments
+<h3>Developer / AI Explorer</h3>
 
-## 🚀 Stack
+<br>
 
-```python
-Python • JavaScript • C++
-Flask • FastAPI • React
-SentenceTransformers • Scikit-learn
-````
 
-## 🧠 Interests
+## About Me
 
-Semantic Search
-RAG Systems
-AI + Software Engineering
-System Design
+I'm a Computer Science undergraduate currently focused on building and researching **ARGUS** — exploring NLP, LLMs, sentence transformers, machine learning systems, and AI-powered applications.
+
+I enjoy building scalable systems, experimenting with AI workflows, and solving real-world engineering problems through code.
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,postgres,docker,git" />
+</p>
+<h4>Additional Technologies</h4>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Current Focus
 
 ```txt
-building things
-breaking them
-rebuilding better
+> Natural Language Processing (NLP)
+> Large Language Models (LLMs)
+> Sentence Transformers
+> Machine Learning
+> System Design
+> Competitive Programming
 ```
 
-```
-```
+---
+
+## 🚀 Projects
+
+### ARGUS
+
+> A graph-based system that maps the argumentative structure of online conversations — extracting claims, detecting rhetorical moves, scoring influence, and making any thread semantically queryable.
+
+---
+
+## 🧩 Experience
+
+- Solved **200+ problems** across platforms like Codeforces, LeetCode, and CodeChef
+- Exploring scalable backend architecture and AI systems
+- Building practical AI applications with modern tooling
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+ARGUS;Exploring+LLMs+and+NLP;System+Design+%26+AI+Engineering" />
+
+</div>
