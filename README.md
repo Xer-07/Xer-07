@@ -1,5 +1,5 @@
 <img align="right" width="260" src="https://64.media.tumblr.com/39e9cde33114fda2f8cdf95f850fc255/tumblr_ot042dBMPj1ro8ysbo1_500.gifv">
-<h1>Ganesh</h1>
+<h1>Ganeshkumar</h1>
 <h3>Developer / AI Explorer</h3>
 <br>
 
