@@ -34,7 +34,6 @@ I'm a Computer Science undergraduate building and researching **ARGUS** — expl
 > Sentence Transformers
 > Machine Learning
 > System Design
-> Competitive Programming — 200+ problems
 ```
 
 ---
