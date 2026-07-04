@@ -12,7 +12,7 @@ I'm a Computer Science undergraduate building and researching **ARGUS** — expl
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,fastapi,docker,git" />
 </p>
 
 <h4>Additional Technologies</h4>
